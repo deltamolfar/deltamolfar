@@ -6,7 +6,8 @@ Hi, I'm Viter Zakhar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
 <hr>
 
 ```
-I-am-deltamolfar
+> whoami
+> deltamolfar
 -------------------------
 💻 I am a self taught Backend Developer
 📚 Currently getting IST(Informational Systems and Technologies) bachelor degree from Precarpatian National University
