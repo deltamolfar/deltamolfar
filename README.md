@@ -7,7 +7,7 @@
 -------------------------
 💻 I am a self taught Backend Developer
 📚 Currently getting IST(Informational Systems and Technologies) bachelor degree from Precarpatian National University
-🌟 My main languages: PHP, JS, C++, Lua
+🌟 My main languages: PHP(Laravel), JS(Vue), C++, Lua
 🚩 Interested in Backend web development(to major extend), Game development(to minor extend)
 🎵 Love jazz, phonk, indie-rock
 ```
