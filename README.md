@@ -7,8 +7,8 @@
 -------------------------
 💻 I am a self taught Backend Developer
 📚 Currently getting IST(Informational Systems and Technologies) bachelor degree from Precarpatian National University
-🌟 My main languages: PHP(Laravel), JS(Vue), C++, Lua
-🚩 Interested in Backend web development(to major extend), Game development(to minor extend)
+🌟 Main stack: Vue, Laravel, Tailwind (VILT)
+🚩 Interested in Web development, Game development and Scale modeling
 🎵 Love jazz, phonk, indie-rock
 ```
 <hr>
