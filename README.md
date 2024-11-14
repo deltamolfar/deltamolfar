@@ -5,7 +5,7 @@
 > whoami
 > deltamolfar
 -------------------------
-💻 I am a self taught Backend Developer
+💻 Full stack developer
 📚 Currently getting IST(Informational Systems and Technologies) bachelor degree from Precarpatian National University
 🌟 Main stack: Vue, Laravel, Tailwind (VILT)
 🚩 Interested in Web development, Game development and Scale modeling
