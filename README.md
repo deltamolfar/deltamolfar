@@ -6,9 +6,8 @@
 > deltamolfar
 -------------------------
 💻 Full stack developer
-📚 Currently getting IST(Informational Systems and Technologies) bachelor degree from Precarpatian National University
 🌟 Main stack: Vue, Laravel, Tailwind (VILT)
-🚩 Interested in Web development, Game development and Scale modeling
+🚩 Interested in Full-Stack web development, Game development and Scale modeling
 🎵 Love jazz, phonk, indie-rock
 ```
 <hr>
