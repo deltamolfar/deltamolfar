@@ -6,9 +6,8 @@
 > deltamolfar
 -------------------------
 💻 Full stack developer
-🌟 Main stack: Vue, Laravel, Tailwind (VILT)
-🚩 Interested in Full-Stack web development, Game development and Scale modeling
-🎵 Love jazz, phonk, indie-rock
+🌟 Main stack: Vue/Node
+🚩 Interested in Full-Stack web development, Scale modeling and business/AI automations
 ```
 <hr>
 <br>
